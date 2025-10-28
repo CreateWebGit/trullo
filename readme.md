@@ -1,3 +1,5 @@
+# Teoretiska resonemang
+
 ## Motivera ditt val av databas
 MongoDB är en NoSQL-databas, vilket innebär att den inte kräver en fast schema som traditionella SQL-databaser gör. Detta gör det enkelt att ändra datamodellen när applikationen utvecklas. Eftersom MongoDB inte kräver ett strikt schema kan jag som utvecklare snabbt iterera på datamodeller och lägga till nya fält utan att störa andra delar av applikationen.
 
